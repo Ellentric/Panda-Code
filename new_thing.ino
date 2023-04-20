@@ -1,3 +1,5 @@
+//**RFID, TFT screen Panda display**
+
 #include <SPI.h>
 #include <MFRC522.h> //RFID reader
 #include <Adafruit_GFX.h>
